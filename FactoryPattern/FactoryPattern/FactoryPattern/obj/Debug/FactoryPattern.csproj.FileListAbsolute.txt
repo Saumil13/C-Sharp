@@ -1,0 +1,6 @@
+c:\users\mtech\documents\visual studio 2012\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+c:\users\mtech\documents\visual studio 2012\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+c:\users\mtech\documents\visual studio 2012\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+c:\users\mtech\documents\visual studio 2012\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\mtech\documents\visual studio 2012\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+c:\users\mtech\documents\visual studio 2012\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
