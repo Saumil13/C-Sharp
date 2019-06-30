@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssapariy\\Documents\\GitHub\\Algo\\Algo.csproj": {}
+    "C:\\Users\\ssapariy\\Documents\\GitHub\\C-Sharp\\Algo\\Algo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssapariy\\Documents\\GitHub\\Algo\\Algo.csproj": {
+    "C:\\Users\\ssapariy\\Documents\\GitHub\\C-Sharp\\Algo\\Algo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssapariy\\Documents\\GitHub\\Algo\\Algo.csproj",
+        "projectUniqueName": "C:\\Users\\ssapariy\\Documents\\GitHub\\C-Sharp\\Algo\\Algo.csproj",
         "projectName": "Algo",
-        "projectPath": "C:\\Users\\ssapariy\\Documents\\GitHub\\Algo\\Algo.csproj",
+        "projectPath": "C:\\Users\\ssapariy\\Documents\\GitHub\\C-Sharp\\Algo\\Algo.csproj",
         "packagesPath": "C:\\Users\\ssapariy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssapariy\\Documents\\GitHub\\Algo\\obj\\",
+        "outputPath": "C:\\Users\\ssapariy\\Documents\\GitHub\\C-Sharp\\Algo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
