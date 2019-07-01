@@ -1,0 +1,13 @@
+
+*.ide-wal
+*.ide-wal
+Algo/bin/Debug/netcoreapp2.2/Algo.deps.json
+Algo/bin/Debug/netcoreapp2.2/Algo.dll
+*.pdb
+Algo/bin/Debug/netcoreapp2.2/Algo.runtimeconfig.dev.json
+Algo/bin/Debug/netcoreapp2.2/Algo.runtimeconfig.json
+Algo/obj/Debug/netcoreapp2.2/Algo.dll
+Algo/obj/Debug/netcoreapp2.2/Algo.csprojAssemblyReference.cache
+Algo/obj/Debug/netcoreapp2.2/Algo.csproj.CoreCompileInputs.cache
+Algo/obj/Debug/netcoreapp2.2/Algo.csprojAssemblyReference.cache
+Algo/obj/Debug/netcoreapp2.2/Algo.csproj.CoreCompileInputs.cache

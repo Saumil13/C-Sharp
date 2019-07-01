@@ -1,0 +1,11 @@
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\obj\Debug\netcoreapp2.2\Algo.csprojAssemblyReference.cache
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\obj\Debug\netcoreapp2.2\Algo.csproj.CoreCompileInputs.cache
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\obj\Debug\netcoreapp2.2\Algo.AssemblyInfoInputs.cache
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\obj\Debug\netcoreapp2.2\Algo.AssemblyInfo.cs
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\bin\Debug\netcoreapp2.2\Algo.deps.json
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\bin\Debug\netcoreapp2.2\Algo.runtimeconfig.json
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\bin\Debug\netcoreapp2.2\Algo.runtimeconfig.dev.json
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\bin\Debug\netcoreapp2.2\Algo.dll
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\bin\Debug\netcoreapp2.2\Algo.pdb
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\obj\Debug\netcoreapp2.2\Algo.dll
+C:\Users\ssapariy\Documents\GitHub\C-Sharp\Algo\obj\Debug\netcoreapp2.2\Algo.pdb
